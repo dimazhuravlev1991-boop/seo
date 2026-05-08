@@ -1,13 +1,17 @@
-# SEO bulk catalog
+# SEO Каталог
 
-Автоматически сгенерированный каталог ссылок.
+Автоматически генерируемый каталог для индексации.
 
-- Всего URL: 367393
-- Частей: 368
-- Обновлено: 2026-05-08 13:21:01
+- Всего URL: 493,633
+- Ожидают: 372,546
+- Доменов: 7,099
+- Тематик: 11
+- Обновлено: 2026-05-08
 
-## GitHub Pages
-https://dimazhuravlev1991-boop.github.io/seo/
+## Ссылки
 
-## Sitemap
-https://dimazhuravlev1991-boop.github.io/seo/sitemap.xml
+- [Каталог](https://dimazhuravlev1991-boop.github.io/seo/)
+- [Приоритетные URL](https://dimazhuravlev1991-boop.github.io/seo/priority/)
+- [По алфавиту](https://dimazhuravlev1991-boop.github.io/seo/domains/)
+- [По тематикам](https://dimazhuravlev1991-boop.github.io/seo/groups/)
+- [Sitemap](https://dimazhuravlev1991-boop.github.io/seo/sitemap-index.xml)
